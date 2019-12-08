@@ -102,4 +102,4 @@ Start at the register page to enter unique user information.
 >We still need to streamline the reminders according to each user, and the edit(update) feature is still being worked on.
 
 
-<h2>Authors:  David Levens * Curtis Charles * Jon-Luc Robbins</h2>
+<h2>Authors:  David Levens</h2>
